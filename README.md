@@ -1,41 +1,34 @@
-# ZephyrLLMChatbot
-A guideline to build no-cost LLM chatbot 
+# South Indian Diet Expert
 
-This README provides a structured and detailed guide to help users through the process of creating and deploying a customized LLM chatbot using Hugging Face Spaces and Gradio, highlighting key steps and customization options, complete with useful links for easy navigation.
+Welcome to the South Indian Diet Expert chatbot! This AI-powered assistant provides personalized diet recommendations and nutritional advice based on South Indian cuisine.
 
+## Features
 
-# Build and Deploy Your Custom LLM App in 5 Minutes for Free
+- Personalized meal suggestions for breakfast, lunch, and dinner
+- Low-calorie South Indian dish recommendations
+- Tips for incorporating more protein into a South Indian diet
+- General advice for maintaining a healthy South Indian diet
 
-## Introduction
-Have you ever wished to craft a chatbot tailored to your needs? Whether it's a culinary wizard to guide you through complex recipes or an artistic mentor to discuss the nuances of painting techniques, this comprehensive guide is your gateway. We'll walk you through the simple steps to build and deploy your own LLM-based chatbot using [Hugging Face Spaces](https://huggingface.co/spaces) and Gradio—all in just five minutes, and absolutely free of charge!
+## How to Use
 
-## Prerequisites
-Before you  start creating your chatbot, make sure you have the following:
-- **A Hugging Face Account**: Essential for accessing the platform where you'll build and host your chatbot. [Sign up here](https://huggingface.co/join).
+1. Type your question or request in the chat interface
+2. Press Enter or click the Send button
+3. Receive tailored advice about South Indian cuisine and nutrition
 
-## Setup and Deployment
-1. **Choosing Your Chatbot’s Identity**: Decide what your chatbot will specialize in. This could be anything from a chef, painter, or even a relaxing buddy to help you unwind. The role you choose will define the interactions and capabilities of your chatbot.
+## Example Questions
 
-2. **Logging into Hugging Face**:  Here, you'll need an account to access the tools required for deploying your chatbot. If you don't have an account, signing up is straightforward and quick.
+- "What's a healthy South Indian breakfast?"
+- "Can you suggest a South Indian lunch option?"
+- "What are some low-calorie South Indian dishes?"
+- "How can I incorporate more protein into my South Indian diet?"
+- "Any tips for a healthy South Indian diet?"
 
-3. **Navigating to Hugging Face Spaces**: Spaces are where the magic happens. This section of Hugging Face allows users to create and manage their applications seamlessly. Navigate to [Spaces](https://huggingface.co/spaces) to get started.
+## About
 
-4. **Creating Your Space**: Initiate a new space by clicking on 'Create New Space'. It’s important that the name of your Space reflects the chatbot's role, as it helps in identifying the application’s purpose at a glance.
+This chatbot uses a custom knowledge base to provide accurate and relevant information about South Indian diets. It's designed to help users make informed decisions about their nutrition while enjoying the rich flavors of South Indian cuisine.
 
-5. **Configuring Your Chatbot**:
-   - **Selecting the Framework and Model**: Choose 'Gradio' as the framework for its user-friendly interface capabilities, and select a suitable model, such as 'Zephyr 7B', known for its versatility across various tasks.
-   - **Customization**: Here’s where you personalize the chatbot. Depending on the selected role, you might want to tailor system messages and interaction style. This customization will enable your chatbot to interact appropriately according to its role.
+## Feedback
 
-6. **Deployment**: Once setup is complete, deploy your chatbot by simply clicking the create button. Deployment usually takes a couple of minutes. After this, your chatbot will be up and running and ready to interact.
+If you have any suggestions or encounter any issues, please feel free to open an issue in this repository.
 
-## Customization Example
-To make your chatbot truly unique, consider personalizing it extensively. For instance, if you choose a 'Relaxing Buddy' role:
-- Modify the system messages to include comforting phrases and stress-relief tips.
-- Program the chatbot to suggest relaxation exercises, guide through meditation sessions, or simply offer soothing conversations.
-
- Explore different roles and tweak the system instructions to discover the full potential of your chatbot. Don’t forget to share your creations and experiences, as your insights could inspire others in their chatbot development.
-
- If you wish to contribute: Please fork this repo. 
-
- For any question reach me out @ turna.fardousi@gmail.com
-
+Enjoy exploring the delicious and nutritious world of South Indian food!
